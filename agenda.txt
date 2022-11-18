@@ -98,7 +98,7 @@ Git Command (Local)
 -> git checkout <nama branch>
 -> git branch --merged
 -> git branch -d dosen
-
+-> git commit -am ""
 
 Jenis Merge
 -> Fast Forward
