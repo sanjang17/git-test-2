@@ -99,12 +99,30 @@ Git Command (Local)
 -> git branch --merged
 -> git branch -d dosen
 -> git commit -am ""
+-> git remote -v
+-> git push
+-> git config --list
 
 Jenis Merge
 -> Fast Forward
 -> Three-way Merge
+-> Detached Head
 
 3 area pada repo git
 -> working tree -> Tempat Menyimpan File
 -> staging area -> Apakah ada perubahan pada file
 -> history -> menyimpan
+
+
+
+
+
+
+
+
+
+
+
+
+Git Remote
+-> Repo Local ke Repo Cloud
