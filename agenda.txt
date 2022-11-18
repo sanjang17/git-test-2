@@ -90,6 +90,8 @@ Git Command (Local)
 -> git config
 -> git branch
 -> git help
+-> git log -3 / git log -- style.css
+-> git checkout d2a0ec -- style.css
 
 
 3 area pada repo git
