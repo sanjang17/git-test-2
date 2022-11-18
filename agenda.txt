@@ -93,14 +93,16 @@ Git Command (Local)
 -> git log -3 / git log -- style.css
 -> git checkout d2a0ec -- style.css
 -> git merge <nama branch>
+-> git branch <nama branch>
+-> git log --all --decorate --oneline --graph
+-> git checkout <nama branch>
+-> git branch --merged
+-> git branch -d dosen
 
 
 Jenis Merge
 -> Fast Forward
 -> Three-way Merge
--> git branch <nama branch>
--> git log --all --decorate --oneline --graph
--> git checkout <nama branch>
 
 3 area pada repo git
 -> working tree -> Tempat Menyimpan File
