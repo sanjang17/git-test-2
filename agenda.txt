@@ -102,6 +102,8 @@ Git Command (Local)
 -> git remote -v
 -> git push
 -> git config --list
+-> git fetch
+-> git pull
 
 Jenis Merge
 -> Fast Forward
