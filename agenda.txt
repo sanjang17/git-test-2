@@ -96,7 +96,7 @@ Git Command (Local)
 -> git branch <nama branch>
 -> git log --all --decorate --oneline --graph
 -> git checkout <nama branch>
--> git checkout -b
+-> git checkout -b <nama branch>
 -> git branch --merged
 -> git branch -d <nama branch>
 -> git commit -am ""
@@ -107,7 +107,8 @@ Git Command (Local)
 -> git pull
 -> git clone
 -> git remote add <nama remote>
--? git push origin --delete <nama branch>
+-> git push origin --delete <nama branch>
+-> git rebase <nama branch>
 
 
 Jenis Merge
@@ -139,9 +140,16 @@ Git Remote
 
 Multiple Remote
 
+
 Remote Branch
+
 
 .gitignore
 -> config.txt
 -> data/
 -> *.exe
+
+
+Rebase
+-> git workflow
+-> Merge vs Rebase
