@@ -140,3 +140,8 @@ Git Remote
 Multiple Remote
 
 Remote Branch
+
+.gitignore
+-> config.txt
+-> data/
+-> *.exe
