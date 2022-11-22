@@ -107,6 +107,8 @@ Git Command (Local)
 -> git pull
 -> git clone
 -> git remote add <nama remote>
+-? git push origin --delete <nama branch>
+
 
 Jenis Merge
 -> Fast Forward
