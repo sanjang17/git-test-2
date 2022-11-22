@@ -102,8 +102,10 @@ Git Command (Local)
 -> git remote -v
 -> git push
 -> git config --list
--> git fetch
+-> git fetch <nama remote>
 -> git pull
+-> git clone
+-> git remote add <nama remote>
 
 Jenis Merge
 -> Fast Forward
@@ -128,3 +130,8 @@ Jenis Merge
 
 Git Remote
 -> Repo Local ke Repo Cloud
+
+
+
+
+Multiple Remote
